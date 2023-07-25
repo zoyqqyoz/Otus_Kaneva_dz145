@@ -6,7 +6,7 @@ Vagrant-стенд c PAM
 Описание домашнего задания
 Запретить всем пользователям, кроме группы admin, логин в выходные (суббота и воскресенье), без учета праздников
 
-Создадим Vagrantfile, запустим его и подключимся к ВМ:
+Создадим [Vagrantfile](https://github.com/zoyqqyoz/Otus_Kaneva_dz145/blob/master/Vagrantfile), запустим его и подключимся к ВМ:
 
 ```
 neva@Uneva:~$ vagrant up
